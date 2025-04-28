@@ -1,25 +1,25 @@
 # GP32 Bottomside
-
-C7 - GFT 10 16V (looks like an aluminium electrolytic cap)
-C38 - 227A M121T (looks like a tantalum cap)
-C39 - 227A M121T (ta)
-C41 - 106A M22 1P (ta)
-C42 - 106A M22 1P (ta)
-C45 - 106A M22 1P (ta)
-C49 - GCZ 100 6V (elco)
-C52 - GCZ 100 6V (elco)
-C57 - 106A M22 1P (ta)
-C60 - GEY 22 16V (elco)
-C62 - GEF 22 35V (elco)
-C70 - GBP 4.7 50V (elco)
-C72 - GEF 2.2 50V (elco)
-C73 - GEF 2.2 50V (elco)
-C76 - 225C M3507 (ta)
-C77 - GFT 10 16V (elco)
-C79 - 106A M22 1P (ta)
-C81 - GFT 10 16V (elco)
-C89 - GFT 10 16V (elco)
-C90 - 227A M121T (ta)
+| Component | Marking | Measured value | Notes |
+| C7 | GFT 10 16V || (elco) |
+| C38 | 227A M121T || (ta) |
+| C39 | 227A M121T || (ta) |
+| C41 | 106A M22 1P || (ta) |
+| C42 | 106A M22 1P || (ta) |
+| C45 | 106A M22 1P || (ta) |
+| C49 | GCZ 100 6V || (elco) |
+| C52 | GCZ 100 6V || (elco) |
+| C57 | 106A M22 1P || (ta) |
+| C60 | GEY 22 16V || (elco) |
+| C62 | GEF 22 35V || (elco) |
+| C70 | GBP 4.7 50V || (elco) |
+| C72 | GEF 2.2 50V || (elco) |
+| C73 | GEF 2.2 50V || (elco) |
+| C76 | 225C M3507 || (ta) |
+| C77 | GFT 10 16V || (elco) |
+| C79 | 106A M22 1P || (ta) |
+| C81 | GFT 10 16V || (elco) |
+| C89 | GFT 10 16V || (elco) |
+| C90 | 227A M121T || (ta) |
 
 CON1 - ext connector (18pin)
 CON2 - weird usb connector
