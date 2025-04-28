@@ -1,5 +1,6 @@
 # GP32 Bottomside
 | Component | Marking | Measured value | Notes |
+| --- | --- | --- | --- |
 | C7 | GFT 10 16V || (elco) |
 | C38 | 227A M121T || (ta) |
 | C39 | 227A M121T || (ta) |
